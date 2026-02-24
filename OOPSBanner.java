@@ -4,7 +4,11 @@
  * This program prints OOPS banner using String.join()
  * for better memory efficiency and cleaner code.
  *
+<<<<<<< HEAD
  * @author Udbhav
+=======
+ * @author Bhuvan Bham
+>>>>>>> feature/UC3-UsingString
  * @version 3.0
  */
 
